@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Programers\\Code\\C#\\Firstproject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{096B387C-EF7D-471B-945D-2F0CE9D5148C}|Firstproject\\Firstproject.csproj|g:\\programers\\code\\c#\\firstproject\\firstproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096B387C-EF7D-471B-945D-2F0CE9D5148C}|Firstproject\\Firstproject.csproj|solutionrelative:firstproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Programers\\Code\\C#\\Firstproject\\Firstproject\\Program.cs",
+              "RelativeDocumentMoniker": "Firstproject\\Program.cs",
+              "ToolTip": "G:\\Programers\\Code\\C#\\Firstproject\\Firstproject\\Program.cs",
+              "RelativeToolTip": "Firstproject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T12:35:02.609Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+G:\Programers\Code\C#\AppOne\AppOne\bin\Debug\net8.0\AppOne.exe
+G:\Programers\Code\C#\AppOne\AppOne\bin\Debug\net8.0\AppOne.deps.json
+G:\Programers\Code\C#\AppOne\AppOne\bin\Debug\net8.0\AppOne.runtimeconfig.json
+G:\Programers\Code\C#\AppOne\AppOne\bin\Debug\net8.0\AppOne.dll
+G:\Programers\Code\C#\AppOne\AppOne\bin\Debug\net8.0\AppOne.pdb
+G:\Programers\Code\C#\AppOne\AppOne\obj\Debug\net8.0\AppOne.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programers\Code\C#\AppOne\AppOne\obj\Debug\net8.0\AppOne.AssemblyInfoInputs.cache
+G:\Programers\Code\C#\AppOne\AppOne\obj\Debug\net8.0\AppOne.AssemblyInfo.cs
+G:\Programers\Code\C#\AppOne\AppOne\obj\Debug\net8.0\AppOne.csproj.CoreCompileInputs.cache
+G:\Programers\Code\C#\AppOne\AppOne\obj\Debug\net8.0\AppOne.dll
+G:\Programers\Code\C#\AppOne\AppOne\obj\Debug\net8.0\refint\AppOne.dll
+G:\Programers\Code\C#\AppOne\AppOne\obj\Debug\net8.0\AppOne.pdb
+G:\Programers\Code\C#\AppOne\AppOne\obj\Debug\net8.0\AppOne.genruntimeconfig.cache
+G:\Programers\Code\C#\AppOne\AppOne\obj\Debug\net8.0\ref\AppOne.dll

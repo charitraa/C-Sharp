@@ -1,0 +1,12 @@
+C:\Programers\Code\C#\UI\UI\bin\Debug\UI.exe.config
+C:\Programers\Code\C#\UI\UI\bin\Debug\UI.exe
+C:\Programers\Code\C#\UI\UI\bin\Debug\UI.pdb
+C:\Programers\Code\C#\UI\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Programers\Code\C#\UI\UI\obj\Debug\UI.Form1.resources
+C:\Programers\Code\C#\UI\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Programers\Code\C#\UI\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Programers\Code\C#\UI\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Programers\Code\C#\UI\UI\obj\Debug\UI.exe
+C:\Programers\Code\C#\UI\UI\obj\Debug\UI.pdb
+C:\Programers\Code\C#\UI\UI\obj\Debug\UI.Form2.resources
+C:\Programers\Code\C#\UI\UI\obj\Debug\UI.UserControl1.resources
