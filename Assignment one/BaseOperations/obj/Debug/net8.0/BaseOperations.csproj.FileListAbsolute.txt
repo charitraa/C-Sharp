@@ -1,0 +1,15 @@
+G:\Programers\Code\C#\BaseOperations\BaseOperations\bin\Debug\net8.0\BaseOperations.exe
+G:\Programers\Code\C#\BaseOperations\BaseOperations\bin\Debug\net8.0\BaseOperations.deps.json
+G:\Programers\Code\C#\BaseOperations\BaseOperations\bin\Debug\net8.0\BaseOperations.runtimeconfig.json
+G:\Programers\Code\C#\BaseOperations\BaseOperations\bin\Debug\net8.0\BaseOperations.dll
+G:\Programers\Code\C#\BaseOperations\BaseOperations\bin\Debug\net8.0\BaseOperations.pdb
+G:\Programers\Code\C#\BaseOperations\BaseOperations\obj\Debug\net8.0\BaseOperations.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programers\Code\C#\BaseOperations\BaseOperations\obj\Debug\net8.0\BaseOperations.AssemblyInfoInputs.cache
+G:\Programers\Code\C#\BaseOperations\BaseOperations\obj\Debug\net8.0\BaseOperations.AssemblyInfo.cs
+G:\Programers\Code\C#\BaseOperations\BaseOperations\obj\Debug\net8.0\BaseOperations.csproj.CoreCompileInputs.cache
+G:\Programers\Code\C#\BaseOperations\BaseOperations\obj\Debug\net8.0\BaseOperations.sourcelink.json
+G:\Programers\Code\C#\BaseOperations\BaseOperations\obj\Debug\net8.0\BaseOperations.dll
+G:\Programers\Code\C#\BaseOperations\BaseOperations\obj\Debug\net8.0\refint\BaseOperations.dll
+G:\Programers\Code\C#\BaseOperations\BaseOperations\obj\Debug\net8.0\BaseOperations.pdb
+G:\Programers\Code\C#\BaseOperations\BaseOperations\obj\Debug\net8.0\BaseOperations.genruntimeconfig.cache
+G:\Programers\Code\C#\BaseOperations\BaseOperations\obj\Debug\net8.0\ref\BaseOperations.dll
