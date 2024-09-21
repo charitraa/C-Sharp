@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programers\\Code\\C#\\Classwork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F50B9D3C-16CE-468C-BBBC-7B297343C725}|Classwork\\Classwork.csproj|c:\\programers\\code\\c#\\classwork\\classwork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F50B9D3C-16CE-468C-BBBC-7B297343C725}|Classwork\\Classwork.csproj|solutionrelative:classwork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programers\\Code\\C#\\Classwork\\Classwork\\Program.cs",
+              "RelativeDocumentMoniker": "Classwork\\Program.cs",
+              "ToolTip": "C:\\Programers\\Code\\C#\\Classwork\\Classwork\\Program.cs",
+              "RelativeToolTip": "Classwork\\Program.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAQwH4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T05:15:29.139Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

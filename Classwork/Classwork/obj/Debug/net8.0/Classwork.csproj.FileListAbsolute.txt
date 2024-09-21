@@ -1,0 +1,15 @@
+C:\Programers\Code\C#\Classwork\Classwork\bin\Debug\net8.0\Classwork.exe
+C:\Programers\Code\C#\Classwork\Classwork\bin\Debug\net8.0\Classwork.deps.json
+C:\Programers\Code\C#\Classwork\Classwork\bin\Debug\net8.0\Classwork.runtimeconfig.json
+C:\Programers\Code\C#\Classwork\Classwork\bin\Debug\net8.0\Classwork.dll
+C:\Programers\Code\C#\Classwork\Classwork\bin\Debug\net8.0\Classwork.pdb
+C:\Programers\Code\C#\Classwork\Classwork\obj\Debug\net8.0\Classwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programers\Code\C#\Classwork\Classwork\obj\Debug\net8.0\Classwork.AssemblyInfoInputs.cache
+C:\Programers\Code\C#\Classwork\Classwork\obj\Debug\net8.0\Classwork.AssemblyInfo.cs
+C:\Programers\Code\C#\Classwork\Classwork\obj\Debug\net8.0\Classwork.csproj.CoreCompileInputs.cache
+C:\Programers\Code\C#\Classwork\Classwork\obj\Debug\net8.0\Classwork.sourcelink.json
+C:\Programers\Code\C#\Classwork\Classwork\obj\Debug\net8.0\Classwork.dll
+C:\Programers\Code\C#\Classwork\Classwork\obj\Debug\net8.0\refint\Classwork.dll
+C:\Programers\Code\C#\Classwork\Classwork\obj\Debug\net8.0\Classwork.pdb
+C:\Programers\Code\C#\Classwork\Classwork\obj\Debug\net8.0\Classwork.genruntimeconfig.cache
+C:\Programers\Code\C#\Classwork\Classwork\obj\Debug\net8.0\ref\Classwork.dll
